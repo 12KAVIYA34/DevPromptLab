@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+openai
+anthropic
+python-dotenv
+requests
+google-generativeai
+groq
